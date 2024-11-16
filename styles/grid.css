@@ -1,0 +1,67 @@
+/*!**/
+/** Prefixed by https://autoprefixer.github.io*/
+/** PostCSS: v8.4.14,*/
+/** Autoprefixer: v10.4.7*/
+/** Browsers: last 4 version*/
+/**!*/
+
+/*!*html {*!*/
+/*!*    box-sizing: border-box;*!*/
+/*!*}*!*/
+
+/*!**,*!*/
+/*!**::after,*!*/
+/*!**::before {*!*/
+/*!*    box-sizing: inherit;*!*/
+/*!*}*!*/
+
+/*.container {*/
+/*    width: 100%;*/
+/*    padding-right: 15px;*/
+/*    padding-left: 15px;*/
+/*    margin-right: auto;*/
+/*    margin-left: auto;*/
+/*    !*position: relative;*!*/
+/*}*/
+
+/*@media (min-width: 576px) {*/
+
+/*    .container {*/
+/*        !*width: 540px;*!*/
+/*        width: 400px;*/
+/*    }*/
+/*}*/
+
+
+/*!* md *!*/
+
+/*@media (min-width: 768px) {*/
+/*    .container {*/
+/*        !*width: 720px;*!*/
+/*        width: 580px;*/
+/*    }*/
+/*}*/
+
+
+/*!* lg *!*/
+
+/*@media (min-width: 992px) {*/
+/*    .container {*/
+/*        !*width: 960px;*!*/
+/*        width: 830px;*/
+/*    }*/
+/*}*/
+
+/*@media (min-width: 1200px) {*/
+/*    .container {*/
+/*        !*width: 1140px;*!*/
+/*        width: 1010px;*/
+/*    }*/
+/*}*/
+
+/*@media (min-width: 1400px) {*/
+/*    .container {*/
+/*        !*width: 1370px;*!*/
+/*        width: 1230px;*/
+/*    }*/
+/*}*/
